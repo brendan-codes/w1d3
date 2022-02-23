@@ -1,0 +1,26 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.green {
+    width: 500px;
+    height: 500px;
+    background-color: green;
+    display: inline-block;
+}
+
+.orange {
+    width: 500px;
+    height: 500px;
+    background-color: orange;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.grey {
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    display: inline-block;
+}
